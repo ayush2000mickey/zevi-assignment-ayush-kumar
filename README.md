@@ -1,46 +1,35 @@
-# Getting Started with Create React App
+# Zevi Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Deployed Site Link : [https://zevi-assignment-ayush-kumar.netlify.app/](https://zevi-assignment-ayush-kumar.netlify.app/)
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+1. Home Screen
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/2d3d2601-eaf3-4fd2-b163-db0a905e8e85)
+2. Home Screen With Suggestion Box Open
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/809d895d-404a-46a3-813f-6487745aa387)
+3. Products Screen
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/46cd1e9a-133d-4a84-a500-cfc784ad61b0)
+4. Products Screen With FiltersOpen
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/dd12f337-c1c8-4671-8405-de677dbb423c)
+5. Products Screen With 5 Star Filter Selected
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/5dd6bce1-6b01-4c4b-a426-e0f7e23397c4)
+6. Products Screen With Products Wishlisted
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/ec13cf69-ac9f-4698-add6-3112d0939e6e)
+7. Products Screen With Hovering On Product Shows View Product Section
+   ![Screenshot (84)](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/0c068016-32c7-40a4-bd3f-5ec2f95ae42d)
+8. Mobile View Of Home Screen
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/18edffda-2a12-4efe-8e43-87b69208007e)
+9. Mobile View Of Home Screen With Suggestion Box Open
+   ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/e3fb933b-aa1c-4a70-829f-341ad9271fa4)
+10. Mobile View Of Product Screen
+    ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/19b25676-1b66-4974-993c-d72cded748d1)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
