@@ -32,6 +32,7 @@ const Products = () => {
 
   useEffect(() => {
     setProducts(fetchProducts());
+    setTempProducts(fetchProducts());
   }, []);
 
   useEffect(() => {
