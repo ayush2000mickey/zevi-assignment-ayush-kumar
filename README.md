@@ -18,11 +18,11 @@
    ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/ec13cf69-ac9f-4698-add6-3112d0939e6e)
 7. Products Screen With Hovering On Product Shows View Product Section
    ![Screenshot (84)](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/0c068016-32c7-40a4-bd3f-5ec2f95ae42d)
-8. Mobile View Of Home Screen
+8. Mobile View Of Home Screen <br>
    ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/18edffda-2a12-4efe-8e43-87b69208007e)
-9. Mobile View Of Home Screen With Suggestion Box Open
+9. Mobile View Of Home Screen With Suggestion Box Open <br>
    ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/e3fb933b-aa1c-4a70-829f-341ad9271fa4)
-10. Mobile View Of Product Screen
+10. Mobile View Of Product Screen <br>
     ![image](https://github.com/ayush2000mickey/zevi-assignment-ayush-kumar/assets/56113584/19b25676-1b66-4974-993c-d72cded748d1)
 
 
