@@ -10,13 +10,13 @@
   display: flex;
   gap: 1rem;
   flex-direction: column;
+  width: 100vw;
 }
 
 .input_container {
   width: 35rem;
   max-width: 90vw;
-  display: grid;
-  grid-template-columns: 10fr 1fr;
+  display: flex;
   gap: 1rem;
   margin: auto;
   background-color: white;
@@ -24,6 +24,7 @@
   padding: 0.5rem 1rem;
 
   .home_input {
+    width: 100%;
     border: none;
     outline: none;
     background-color: transparent;
@@ -31,7 +32,7 @@
   }
 
   .search_icon_container {
-    margin: auto;
+    // margin: auto;
     cursor: pointer;
     border: none;
     background: transparent;

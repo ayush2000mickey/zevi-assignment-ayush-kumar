@@ -42,7 +42,6 @@ const Home = () => {
         <form className="input_container" onSubmit={(e) => onSubmitHandler(e)}>
           <input
             onClick={() => getBoxProducts()}
-            // onBlur={() => setShowSuggestionBox(false)}
             type="text"
             className="home_input"
             placeholder="Search..."

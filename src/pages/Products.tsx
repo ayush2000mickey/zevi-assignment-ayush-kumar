@@ -127,6 +127,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.brand[0]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.brand];
                       updatedFilter[0] = !updatedFilter[0];
@@ -143,6 +144,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.brand[1]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.brand];
                       updatedFilter[1] = !updatedFilter[1];
@@ -177,6 +179,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.price[0]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.price];
                       updatedFilter[0] = !updatedFilter[0];
@@ -193,6 +196,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.price[1]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.price];
                       updatedFilter[1] = !updatedFilter[1];
@@ -227,6 +231,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.rating[4]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.rating];
                       updatedFilter[4] = !updatedFilter[4];
@@ -243,6 +248,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.rating[3]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.rating];
                       updatedFilter[3] = !updatedFilter[3];
@@ -259,6 +265,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.rating[2]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.rating];
                       updatedFilter[2] = !updatedFilter[2];
@@ -275,6 +282,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.rating[1]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.rating];
                       updatedFilter[1] = !updatedFilter[1];
@@ -291,6 +299,7 @@ const Products = () => {
                     type="checkbox"
                     name=""
                     id=""
+                    checked={multipleFilters.rating[0]}
                     onChange={() => {
                       const updatedFilter = [...multipleFilters.rating];
                       updatedFilter[0] = !updatedFilter[0];
